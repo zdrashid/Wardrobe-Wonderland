@@ -1,0 +1,41 @@
+-------------------------------------------------------------------------------------------------------------------------
+Defintion of Game Objects: 
+Avatar, Clothing and Hanger all created by me
+
+-------------------------------------------------------------------------------------------------------------------------
+Animation of Game Objects Sprite Sheet: 
+Hearts to represent lives were created by me and revolving 
+hanger also represents as sprite sheet
+
+-------------------------------------------------------------------------------------------------------------------------
+Interaction Between Game Objects: 
+Avatar runs and catches clothes to gain score so that is one interaction
+Another interaction is that a hanger can catch clothes to earn score as well
+Once clothes hit the ground lives are lost
+
+-------------------------------------------------------------------------------------------------------------------------
+Keeping Score:
+Points are earned by catching clothes before they hit the ground. They are incremented from 10 to 20 to 30 as
+the speed increases of the clothes falling. Half points are earned if the hanger you throw hits the clothes. 
+
+-------------------------------------------------------------------------------------------------------------------------
+Complexity:
+I believe this takes several aspects of other games and combines them. It takes the aspect of moving an avatar to collect
+items to gain score like pacman but instead of the objects being stationary they are moving and you only move in the x plane. 
+Also the hanger takes into account something like space invaders where you are shooting an object at an objective. 
+
+-------------------------------------------------------------------------------------------------------------------------
+Overall look & feel:
+The items are all clothes that could be part of someone's closet and the avatar has a similar look and items are 
+same size as avatars clothes. The hanger almost looks like the appropriate size for the clothing. The background is 
+a runway to go with the fashion theme!
+
+-------------------------------------------------------------------------------------------------------------------------
+Effectiveness of personal twist:
+I have put myself in the game (with a slightly cooler haircut) and the game revolves around fashion because I am 
+actually a fashion merchandising minor!
+
+-------------------------------------------------------------------------------------------------------------------------
+Demo/Gallery/YouTube:
+I presented the game to the professor and adjusted some things she suggested.
+Game is available on my github and the youtube video is posted for viewing.
